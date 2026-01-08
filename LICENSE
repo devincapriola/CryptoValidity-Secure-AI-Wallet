@@ -1,0 +1,31 @@
+Copyright (c) 2026 AI Blockchain Ventures LLC
+
+All rights reserved.
+
+This repository contains the CryptoValidity reference specification and
+associated documentation.
+
+This material is provided for the purposes of:
+- security review
+- architectural discussion
+- standards evaluation
+- non-commercial research
+
+No license is granted to implement, deploy, commercialize, or distribute
+CryptoValidity or any derivative works without an explicit written agreement
+with AI Blockchain Ventures LLC.
+
+This repository does NOT grant any patent rights, whether express or implied.
+One or more patent applications covering the subject matter described herein
+are pending.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE MATERIAL OR THE USE OR OTHER DEALINGS IN
+THE MATERIAL.
+
+For licensing inquiries, implementation rights, or commercial use, contact:
+hello@aiblockchainventure.com
